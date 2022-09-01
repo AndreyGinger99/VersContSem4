@@ -6,3 +6,5 @@
 This remark made in GitHub 
 
 In this file i will learn how to work with remote repos.
+
+One more change in this file from my PC;
